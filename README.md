@@ -1,7 +1,3 @@
----
-layout: home
-title: Welcome to SEC
----
 
 ## This is web page is hosted using GitHub Pages and Jekyll
 

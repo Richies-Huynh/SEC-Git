@@ -1,4 +1,12 @@
+plugins:
+  - jekyll-titles-from-headings
+
 title: Welcome to SEC
 description: Member roll maintained via Markdown
 theme: minima
 markdown: kramdown
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
