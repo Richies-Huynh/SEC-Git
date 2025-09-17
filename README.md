@@ -3,9 +3,12 @@
 ## Edit the README.md and add your name to the list
 
 ---
+
 # Cloning
 ```git init```
+
 ```git clone https://github.com/Richies-Huynh/SEC-Git.git```
+
 ```git remote add origin https://github.com/Richies-Huynh/SEC-Git.git```
 
 # Pulling
@@ -16,10 +19,14 @@
 
 # Pushing
 ```git add .```
+
 ```git commit -m "<commit_message>"```
+
 ```git push```
 
 ---
+
 MEMBERS
-Richies Huynh
+
+Richies Huynh ♥♥♥
 
