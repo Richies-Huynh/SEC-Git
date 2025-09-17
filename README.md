@@ -1,1 +1,1 @@
-Git help for SEC (Software Engineering Club)
+Git help for SEC (Software Engineering Clubaaa)
