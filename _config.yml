@@ -1,8 +1,8 @@
 plugins:
   - jekyll-titles-from-headings
 
-title: Welcome to SEC
-description: Member roll maintained via Markdown
+title: SEC (Software Engineering Club)
+description: Learning Git
 theme: minima
 markdown: kramdown
 

@@ -1,5 +1,6 @@
+# Welcome to SEC
 
-## This is web page is hosted using GitHub Pages and Jekyll
+## This web page is hosted using GitHub Pages and Jekyll
 
 ## Edit the README.md and add your name to the list
 
@@ -27,7 +28,7 @@
 
 ---
 
-# MEMBERS
+# Members
 
 Richies Huynh ♥♥♥
 
