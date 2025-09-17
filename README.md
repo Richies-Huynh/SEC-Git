@@ -8,13 +8,17 @@
 ```git clone https://github.com/Richies-Huynh/SEC-Git.git```
 ```git remote add origin https://github.com/Richies-Huynh/SEC-Git.git```
 
-# Pushing
-```git add .```
-```git commit -m "commit message"```
-```git push```
-
 # Pulling
 ```git pull origin master```
+
+# Branching
+```git checkout -b <branch_name>```
+
+# Pushing
+```git add .```
+```git commit -m "<commit_message>"```
+```git push```
+
 ---
 MEMBERS
 Richies Huynh
