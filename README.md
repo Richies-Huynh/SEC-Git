@@ -5,24 +5,24 @@
 ---
 
 # Cloning
-```git init```
+```git init```  
 
-```git clone https://github.com/Richies-Huynh/SEC-Git.git```
+```git clone https://github.com/Richies-Huynh/SEC-Git.git```  
 
-```git remote add origin https://github.com/Richies-Huynh/SEC-Git.git```
+```git remote add origin https://github.com/Richies-Huynh/SEC-Git.git```  
 
 # Pulling
-```git pull origin master```
+```git pull origin master```  
 
 # Branching
-```git checkout -b <branch_name>```
+```git checkout -b <branch_name>```  
 
 # Pushing
-```git add .```
+```git add .```  
 
-```git commit -m "<commit_message>"```
+```git commit -m "<commit_message>"```  
 
-```git push```
+```git push```  
 
 ---
 
