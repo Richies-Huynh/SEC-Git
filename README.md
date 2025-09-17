@@ -30,5 +30,5 @@
 
 # Members
 
-Richies Huynh ♥♥♥
+Richies Huynh! ♥♥♥
 
