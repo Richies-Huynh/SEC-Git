@@ -1,4 +1,6 @@
-## This is a hosted web page using GitHub Pages and Jekyll
+
+
+## This is web page is hosted using GitHub Pages and Jekyll
 
 ## Edit the README.md and add your name to the list
 
@@ -26,7 +28,7 @@
 
 ---
 
-MEMBERS
+# MEMBERS
 
 Richies Huynh ♥♥♥
 
